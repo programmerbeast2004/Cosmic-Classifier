@@ -54,18 +54,4 @@ Our team ensured that the final model was well-tuned and optimized to achieve th
 
 Project Structure
 
-ML/
-│── Code/
-│   ├── app.ipynb                     # Jupyter Notebook for model training & evaluation
-│
-│── Dataset/
-│   ├── cosmictest.csv                 # Test dataset for model predictions
-│   ├── thermoracleTest.csv            # Additional test dataset
-│   ├── thermoracleTrain.csv           # Training dataset used for model learning
-│
-│── Model/
-│   ├── best_svc_Model.pkl             # Trained SVC model with 92% accuracy
-│   ├── num_pipeline.pkl               # Preprocessing pipeline for numerical features
-│
-│── Predictions/
-│   ├── Final_predictions.csv          # CSV file containing final model predictions
+![image](https://github.com/user-attachments/assets/ec9ad9a1-9073-4071-b935-c2a24b52404f)
